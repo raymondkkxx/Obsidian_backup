@@ -1,0 +1,10 @@
+- `Iridescent`：彩虹变色龙光（随视角流动变换彩色，如甲虫背甲、浮油、贝母）。  
+    - _The oil slick displayed an iridescent purple and emerald shimmer._
+- `Pearlescent / Opalescent`：珍珠光 / 蛋白石光（乳白底色中折射出温和粉、蓝、黄微光）  
+    - _a watch dial with an opalescent ivory finish_
+- `Prismatic`：三棱镜般的折射分光效果，边缘带有明显光谱光斑。  
+    - _prismatic rainbow flares reflected off the crystal chandelier_
+- `Burnished / Antiqued`：作旧打磨金属色，边缘微暗但核心泛温润暖光。  
+    - _burnished brass drawer pulls_
+- `Brushed`：机械拉丝哑光金属质地。
+    - _brushed aluminum finish_
